@@ -13,6 +13,6 @@
 
 # Ignore all logfiles and tempfiles.
 /log/*
-!/log/.keep
-/tmp
+!/log/.kee
+p/tmp
 .DS_Store
